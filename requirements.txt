@@ -1,0 +1,1 @@
+pip install jupyterlab, matplotlib, scikit-learn==0.22, sklearn-extensions, pandas, seaborn, seaborn, Flask, googlesearch-python, pytz, plotly, psutil, beautifulsoup4, xgboost, python-whois, numpy, joblib
